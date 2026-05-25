@@ -1,0 +1,2 @@
+Wroclaw;25.00
+Warszawa;17.67
